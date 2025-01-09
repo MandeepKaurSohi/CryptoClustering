@@ -52,8 +52,13 @@ This project demonstrates the effectiveness of dimensionality reduction in simpl
 To replicate the analysis, install the following libraries:
 
 Python
+
 pandas
+
 NumPy
+
 scikit-learn
+
 hvPlot
+
 holoviews
