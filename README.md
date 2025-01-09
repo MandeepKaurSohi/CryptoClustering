@@ -24,11 +24,14 @@ The following visualizations are included:
 
 Elbow Curve:
 Original Scaled Data
-
+![elbow_curve](https://github.com/MandeepKaurSohi/CryptoClustering/blob/main/outputs/elbow_curve.png)
 PCA Data
+![elbow_pca_plot](https://github.com/MandeepKaurSohi/CryptoClustering/blob/main/outputs/elbow_pca_plot.png)
 Cluster Scatter Plots:
 Original Scaled Data (price_change_percentage_24h vs. price_change_percentage_7d)
+![market_scaled_plot](https://github.com/MandeepKaurSohi/CryptoClustering/blob/main/outputs/market_scaled_plot.png)
 PCA Data (PC1 vs. PC2)
+![market_pca_plot](https://github.com/MandeepKaurSohi/CryptoClustering/blob/main/outputs/market_pca_plot.png)
 ##Conclusion
 This project demonstrates the effectiveness of dimensionality reduction in simplifying data for clustering while retaining key insights. The consistent identification of the optimal k across both methods highlights the robustness of K-means clustering with PCA-transformed data. Visual comparisons reveal that PCA enhances clustering efficiency and interpretability.
 
