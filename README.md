@@ -1,4 +1,4 @@
-#Crypto Clustering
+# Crypto Clustering
 ## Overview
 The Crypto Clustering project explores unsupervised learning techniques to cluster cryptocurrencies based on their price performance over 24 hours and 7 days. Using K-means clustering and Principal Component Analysis (PCA), this project investigates the impact of dimensionality reduction on clustering results and visualizes the clusters effectively.
 
